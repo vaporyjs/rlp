@@ -1,5 +1,6 @@
 {
-  "name": "rlp",
+  "name": "@vaporyjs/rlp",
+  "namespace": "vaporyjs",
   "version": "2.0.0",
   "description": "Recursive Length Prefix Encoding Module",
   "main": "index.js",
@@ -15,11 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethereumjs/rlp.git"
+    "url": "https://github.com/vaporyjs/rlp.git"
   },
   "keywords": [
     "rlp",
-    "ethereum"
+    "vapory"
   ],
   "author": {
     "name": "martin becze",
@@ -27,7 +28,7 @@
   },
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/ethereumjs/rlp/issues"
+    "url": "https://github.com/vaporyjs/rlp/issues"
   },
   "dependencies": {
     "safe-buffer": "^5.1.1"
@@ -35,7 +36,7 @@
   "devDependencies": {
     "bn.js": "^4.11.1",
     "coveralls": "^2.11.4",
-    "ethereumjs-testing": "git+https://github.com/ethereumjs/ethereumjs-testing.git",
+    "vaporyjs-testing": "git+https://github.com/vaporyjs/vaporyjs-testing.git",
     "istanbul": "^0.4.2",
     "mocha": "^2.3.4",
     "standard": "^6.0.8"

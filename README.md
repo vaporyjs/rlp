@@ -1,14 +1,14 @@
 SYNOPSIS
 =====
 [![NPM Package](https://img.shields.io/npm/v/rlp.svg?style=flat-square)](https://www.npmjs.org/package/rlp)
-[![Build Status](https://img.shields.io/travis/ethereumjs/rlp.svg?branch=master&style=flat-square)](https://travis-ci.org/ethereumjs/rlp)
-[![Coverage Status](https://img.shields.io/coveralls/ethereumjs/rlp.svg?style=flat-square)](https://coveralls.io/r/ethereumjs/rlp)
-[![Gitter](https://img.shields.io/gitter/room/ethereum/ethereumjs-lib.svg?style=flat-square)](https://gitter.im/ethereum/ethereumjs-lib) or #ethereumjs on freenode
+[![Build Status](https://img.shields.io/travis/vaporyjs/rlp.svg?branch=master&style=flat-square)](https://travis-ci.org/vaporyjs/rlp)
+[![Coverage Status](https://img.shields.io/coveralls/vaporyjs/rlp.svg?style=flat-square)](https://coveralls.io/r/vaporyjs/rlp)
+[![Gitter](https://img.shields.io/gitter/room/vapory/vaporyjs-lib.svg?style=flat-square)](https://gitter.im/vapory/vaporyjs-lib) or #vaporyjs on freenode
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 
-[Recursive Length](https://github.com/ethereum/wiki/wiki/RLP) Prefix Encoding for node.js.
+[Recursive Length](https://github.com/vaporyco/wiki/wiki/RLP) Prefix Encoding for node.js.
 
 INSTALL
 ======

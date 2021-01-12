@@ -1,7 +1,7 @@
 const assert = require('assert')
 const RLP = require('../index.js')
 const BN = require('bn.js')
-const testing = require('ethereumjs-testing')
+const testing = require('vaporyjs-testing')
 
 describe('invalid rlps', function () {
   it('should not crash on an invalid rlp', function () {
